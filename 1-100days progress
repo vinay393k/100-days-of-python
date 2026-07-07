@@ -21,3 +21,6 @@ Today, I learned about data types in Python, including primitive and non-primiti
 
 #100DaysOfCode – Day 8
 Today, I completed learning about conditional statements in Python. I practiced using `if`, `elif`, and `else` statements to control the flow of a program based on different conditions. This helped me understand how to make Python programs more dynamic and decision-driven.
+
+#100DaysOfCode – Day 9
+Today, I completed learning about loops in Python. I practiced using `for` and `while` loops to execute repetitive tasks efficiently and explored loop control statements such as `break`, `continue`, and `pass`. This strengthened my understanding of iteration and helped me write more efficient Python programs.
