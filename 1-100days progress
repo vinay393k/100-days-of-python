@@ -24,3 +24,6 @@ Today, I completed learning about conditional statements in Python. I practiced 
 
 #100DaysOfCode – Day 9
 Today, I completed learning about loops in Python. I practiced using `for` and `while` loops to execute repetitive tasks efficiently and explored loop control statements such as `break`, `continue`, and `pass`. This strengthened my understanding of iteration and helped me write more efficient Python programs.
+
+#100DaysOfCode – Day 10
+Today, I learned about the `pass` statement in Python and its role as a placeholder in programs. I explored how it can be used in functions, loops, conditional statements, and classes when the implementation is yet to be added. This helped me understand how to write structured code while developing programs step by step.
