@@ -30,3 +30,6 @@ Today i am not able give update, there is an issue on my laptop.
 
 #100DaysOfCode – Day 11
 Today, I learned about the `pass` statement in Python and its role as a placeholder in programs. I explored how it can be used in functions, loops, conditional statements, and classes when the implementation is yet to be added. This helped me understand how to write structured code while developing programs step by step.
+
+#100DaysOfCode – Day 12
+Today, I learned about local and global variables in Python and how variable scope affects accessibility within a program. I practiced using local variables inside functions and global variables across different parts of a program, gaining a better understanding of scope management and code organization.
