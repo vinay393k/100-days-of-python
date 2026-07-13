@@ -36,3 +36,6 @@ Today, I learned about local and global variables in Python and how variable sco
 
 #100DaysOfCode – Day 13
 Today, I learned about recursion in Python and explored its different types. I understood how recursive functions call themselves to solve problems by breaking them into smaller subproblems. I also practiced recursive examples to strengthen my understanding of recursive thinking and problem-solving.
+
+#100DaysOfCode – Day 14
+Today, I learned about arguments in Python and their different types. I explored how arguments are passed to functions, including positional, keyword, default, and variable-length arguments. Practicing these concepts helped me understand how to write more flexible, reusable, and efficient functions.
